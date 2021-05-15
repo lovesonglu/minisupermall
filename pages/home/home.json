@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "s-swiper": "/components/s-swiper/s-swiper",
+    "s-recommend": "./childCpns/s-recommend/s-recommend",
+    "tab-control": "/components/tab-control/tab-control",
+    "s-goods": "/components/s-goods/s-goods",
+    "s-back-top": "/components/s-back-top/s-back-top"
+  },
+  "navigationBarTitleText": "首页"
+}
